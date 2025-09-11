@@ -1,19 +1,23 @@
-# Hi 👋 I'm Pedro Guerreiro
-
-## 💫 About Me
-I'm a Computer Engineering graduate passionate about building **scalable** and **impactful applications**.  
-Currently, I'm focused on improving my skills in DevOps practices and softwares, such as **AWS** and **Linux**.
+<h1 align="center">Hi 👋, I'm Pedro Guerreiro</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 ---
 
-## What I'm Up To
-- 🌩️ Learning **AWS Cloud Services** and **JavaScript** ecosystem 
-- ☕ Building **Spring Boot** applications
-- 📱 Exploring **DevOps** to build scalable and reliable solutions
+<h2>💫 About Me</h2>
+I'm a Computer Engineering graduate passionate about building <b>scalable</b> and <b>impactful applications</b>.  
+Currently, I'm focused on improving my skills in <b>DevOps</b> practices with focus on <b>AWS</b> and <b>Linux</b>.
 
 ---
 
-## Connect With Me
+<h2>🚀 What I'm Up To</h2>
+
+- 🌩️ Learning <b>AWS Cloud Services</b> and the <b>JavaScript ecosystem</b>  
+- ☕ Building <b>Spring Boot</b> applications  
+- ⚙️ Exploring <b>DevOps</b> to build scalable and reliable solutions  
+
+---
+
+<h2>🌐 Connect With Me</h2>
 <p>
   <a href="https://linkedin.com/in/ppedro-guerreiro" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +26,7 @@ Currently, I'm focused on improving my skills in DevOps practices and softwares,
 
 ---
 
-## Tech Stack
+<h2>💻 Tech Stack</h2>
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -49,7 +53,4 @@ Currently, I'm focused on improving my skills in DevOps practices and softwares,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-
-
 
