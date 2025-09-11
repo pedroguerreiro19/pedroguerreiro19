@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Guerreiro</h1>
 <h3 align="center">Aspiring software engineer</h3>
 
+
+**ABOUT ME**
+
+I'm a Computer Engineering graduate passionate about building applications that are scalable and impactful.
+
 - 🌱 I’m currently learning **AWS and Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
