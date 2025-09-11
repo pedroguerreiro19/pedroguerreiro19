@@ -1,7 +1,5 @@
 # Hi 👋 I'm Pedro Guerreiro
 
----
-
 ## 💫 About Me
 I'm a Computer Engineering graduate passionate about building **scalable** and **impactful applications**.  
 Currently, I'm focused on improving my skills in DevOps practices and softwares, such as **AWS** and **Linux**.
@@ -52,6 +50,6 @@ Currently, I'm focused on improving my skills in DevOps practices and softwares,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
----
+
 
 
