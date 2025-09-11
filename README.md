@@ -5,15 +5,12 @@
 I'm a Computer Engineering graduate passionate about building <b>scalable</b> and <b>impactful applications</b>.  
 Currently, I'm focused on improving my skills in <b>DevOps</b> practices with focus on <b>AWS</b> and <b>Linux</b>.
 
----
 
 <h2>🚀 What I'm Up To</h2>
 
 - 🌩️ Learning <b>AWS Cloud Services</b> and the <b>JavaScript ecosystem</b>  
 - ☕ Building <b>Spring Boot</b> applications  
 - ⚙️ Exploring <b>DevOps</b> to build scalable and reliable solutions  
-
----
 
 <h2>🌐 Connect With Me</h2>
 <p>
@@ -22,7 +19,6 @@ Currently, I'm focused on improving my skills in <b>DevOps</b> practices with fo
   </a>
 </p>
 
----
 
 <h2>💻 Tech Stack</h2>
 
