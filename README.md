@@ -2,20 +2,20 @@
 
 ---
 
-## 🦾 About Me
+## 💫 About Me
 I'm a Computer Engineering graduate passionate about building **scalable** and **impactful applications**.  
-Currently, I'm focused on improving my skills in **AWS** and **Spring Boot**.
+Currently, I'm focused on improving my skills in DevOps practices and softwares, such as **AWS** and **Linux**.
 
 ---
 
-## 🚀 What I'm Up To
-- 🌩️ Learning **AWS Cloud Services**  
-- ☕ Building **Spring Boot** applications with **PostgreSQL**  
-- 📱 Exploring **React Native** for mobile app development  
+## What I'm Up To
+- 🌩️ Learning **AWS Cloud Services** and **JavaScript** ecosystem 
+- ☕ Building **Spring Boot** applications
+- 📱 Exploring **DevOps** to build scalable and reliable solutions
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p>
   <a href="https://linkedin.com/in/ppedro-guerreiro" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,7 +24,7 @@ Currently, I'm focused on improving my skills in **AWS** and **Spring Boot**.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -54,7 +54,4 @@ Currently, I'm focused on improving my skills in **AWS** and **Spring Boot**.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroguerreiro19&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
