@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Guerreiro</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
 
----
 
 <h2>💫 About Me</h2>
 I'm a Computer Engineering graduate passionate about building <b>scalable</b> and <b>impactful applications</b>.  
