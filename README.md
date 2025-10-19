@@ -3,7 +3,7 @@
 
 <h2>💫 About Me</h2>
 I'm a Computer Engineering graduate passionate about building <b>scalable</b> and <b>impactful applications</b>.  
-Currently, I'm focused on improving my skills in <b>DevOps</b> practices with focus on <b>AWS</b> and <b>Linux</b>.
+Currently, I'm focused on improving my skills on <b>backend development</b>, <b>AWS</b> and <b>Machine Learning</b>.
 
 
 <h2>🚀 What I'm Up To</h2>
